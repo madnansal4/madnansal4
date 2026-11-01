@@ -1,11 +1,9 @@
 # 👋 Hi, I'm M. Adnan
 
 <h2 align="center">Full-Stack Developer / AI Engineer</h2>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Full-Stack+Software+Engineer;JavaScript+%7C+Python+%7C+Ruby+on+Rails;AI+%26+LLM+Application+Development;Building+RAG+Pipelines+%26+AI+Agents;Exploring+Agentic+AI+%26+Intelligent+Automation" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/m-adnan--dev/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -14,7 +12,6 @@
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 ## 🚀 About Me
 
 I'm a software developer passionate about building modern, scalable web applications and intelligent AI-powered solutions.
