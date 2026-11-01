@@ -15,8 +15,6 @@
   </a>
 </p>
 
----
-
 ## 🚀 About Me
 
 I'm a software developer passionate about building modern, scalable web applications and intelligent AI-powered solutions.
@@ -36,13 +34,13 @@ I'm a software developer passionate about building modern, scalable web applicat
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,ruby,html,css,java,php,cpp" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,ruby" />
 </p>
 
 ### 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,vue,angular,tailwind,bootstrap,sass,materialui,vite,webpack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,bootstrap,sass,materialui,vite,webpack" />
 </p>
 
 **Additional frontend tools:** React Query, TanStack Query, Zustand, Redux Toolkit, Axios, React Hook Form, Zod, Storybook.
@@ -63,10 +61,10 @@ I'm a software developer passionate about building modern, scalable web applicat
 ### 🐍 Python Ecosystem
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi" />
 </p>
 
-- Frameworks: FastAPI, Django, Django REST Framework, Flask.
+- Frameworks: FastAPI
 - Data Processing: Pandas, NumPy, Pydantic.
 - Async & Background Jobs: Celery, Redis, RQ, asyncio.
 - API & Validation: Pydantic, SQLAlchemy, Alembic.
@@ -89,10 +87,10 @@ I'm a software developer passionate about building modern, scalable web applicat
 ### 🗄️ Databases & Data Storage
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,firebase,supabase,elasticsearch" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase,supabase,elasticsearch" />
 </p>
 
-- Relational: PostgreSQL, MySQL, SQLite.
+- Relational: PostgreSQL, SQLite.
 - NoSQL: MongoDB, Firebase, DynamoDB.
 - Caching: Redis, Memcached.
 - Search: Elasticsearch, OpenSearch.
@@ -128,7 +126,7 @@ I'm a software developer passionate about building modern, scalable web applicat
 ### ☁️ Cloud, Infrastructure & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions,nginx,vercel,netlify,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,nginx,vercel,netlify,linux" />
 </p>
 
 - Cloud: AWS, Google Cloud Platform, Azure.
@@ -141,29 +139,14 @@ I'm a software developer passionate about building modern, scalable web applicat
 ### 🧪 Testing & Quality Engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=jest,vitest,cypress,selenium,playwright" />
+  <img src="https://skillicons.dev/icons?i=jest,vitest,cypress,playwright,rspec" />
 </p>
 
-- JavaScript: Jest, Vitest, Cypress, Playwright, Supertest.
+- JavaScript: Jest, Vitest, Cypress, Playwright.
 - Python: Pytest, unittest.
 - Ruby: RSpec, Capybara, FactoryBot.
 - API Testing: Postman, Insomnia.
 - Code Quality: ESLint, Prettier, RuboCop, SonarQube.
-
-### 🔧 Developer Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,postman,figma,linux,bash,idea" />
-</p>
-
-- IDEs: VS Code, Visual Studio, RubyMine, PyCharm.
-- Version Control: Git, GitHub, GitLab, Bitbucket.
-- API Tools: Postman, Insomnia, Swagger, OpenAPI.
-- AI Coding Tools: Cursor, GitHub Copilot, Claude Code.
-- Project Management: Jira, Linear, Trello.
-- Collaboration: Slack, Notion.
-
----
 
 ## 🤝 Let's Connect
 
