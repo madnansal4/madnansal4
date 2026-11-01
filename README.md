@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 ## 🚀 About Me
 
 I'm a software developer passionate about building modern, scalable web applications and intelligent AI-powered solutions.
