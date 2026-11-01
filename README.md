@@ -21,15 +21,14 @@
 
 I'm a software developer passionate about building modern, scalable web applications and intelligent AI-powered solutions.
 
-- 💻 Full-stack development using JavaScript, Python, and Ruby on Rails.
-- 🎨 Building responsive frontend applications and reusable UI components.
-- ⚙️ Developing backend services, REST APIs, and scalable application architectures.
-- 🤖 Exploring Generative AI, LLM integrations, and Agentic AI systems.
-- 🧠 Interested in RAG architectures, AI agents, tool calling, and workflow orchestration.
-- 🔌 Exploring Model Context Protocol (MCP) and AI-powered automation.
-- 📚 Continuously learning emerging technologies and engineering best practices.
+💻 Full-stack development using JavaScript, Python, and Ruby on Rails.
+🎨 Building responsive frontend applications and reusable UI components.
+⚙️ Developing backend services, REST APIs, and scalable application architectures.
+🤖 Exploring Generative AI, LLM integrations, and Agentic AI systems.
+🧠 Interested in RAG architectures, AI agents, tool calling, and workflow orchestration.
+🔌 Exploring Model Context Protocol (MCP) and AI-powered automation.
+📚 Continuously learning emerging technologies and engineering best practices.
 
----
 
 ## 🛠️ Technical Skills & Technology Stack
 
@@ -102,12 +101,4 @@ I'm a software developer passionate about building modern, scalable web applicat
   <a href="mailto:madnansal4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <b>💻 Build. Innovate. Automate. Repeat. 🚀</b>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=36BCF7&style=flat-square" />
 </p>
