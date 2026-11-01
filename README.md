@@ -1,6 +1,6 @@
 # 👋 Hi, I'm M. Adnan
 
-<h2 align="center">Full-Stack Developer | JavaScript | Python | Ruby on Rails | AI & Agentic AI Engineer</h2>
+<h2 align="center">Full-Stack Developer / AI Engineer</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Full-Stack+Software+Engineer;JavaScript+%7C+Python+%7C+Ruby+on+Rails;AI+%26+LLM+Application+Development;Building+RAG+Pipelines+%26+AI+Agents;Exploring+Agentic+AI+%26+Intelligent+Automation" alt="Typing SVG" />
