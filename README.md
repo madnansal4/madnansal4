@@ -19,15 +19,7 @@
 
 ## 🚀 About Me
 
-I'm a software developer passionate about building modern, scalable web applications and intelligent AI-powered solutions.
-
-💻 Full-stack development using JavaScript, Python, and Ruby on Rails.
-🎨 Building responsive frontend applications and reusable UI components.
-⚙️ Developing backend services, REST APIs, and scalable application architectures.
-🤖 Exploring Generative AI, LLM integrations, and Agentic AI systems.
-🧠 Interested in RAG architectures, AI agents, tool calling, and workflow orchestration.
-🔌 Exploring Model Context Protocol (MCP) and AI-powered automation.
-📚 Continuously learning emerging technologies and engineering best practices.
+I'm a Full-Stack Developer with **6+ years of experience** building modern, scalable web applications and AI-powered solutions. I specialize in JavaScript, Python, and Ruby on Rails, developing responsive frontend experiences, robust backend services, and high-performance APIs. I've contributed to high-traffic applications serving **500K+ users**, improved frontend performance by **40%**, and optimized backend processing by **50%**. Alongside full-stack engineering, I'm passionate about Generative AI and Agentic AI, working with LLM integrations, RAG architectures, AI agents, tool calling, MCP, and intelligent workflow automation. I enjoy solving complex engineering challenges and turning ideas into reliable, production-ready software.
 
 
 ## 🛠️ Technical Skills & Technology Stack
